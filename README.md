@@ -41,4 +41,4 @@ Boot the "MacOS 15.7.9 Recovery" image straight from that picker.
 Once booted you will be greeted by the MacOS recovery screen, Wifi is not yet avaible here as we dont have the heliport app installed yet!
 Please use an Ethernet connection to continue with the setup. (Ethernet connection was not yet tested, if not functional please add the IntelMausi.kext into your /EFI/OC/Kext folder. Also make sure to Create a new snapshot of your config.plist with https://github.com/corpnewt/ProperTree In order for MacOS to boot with the enabled drivers)!
 
-Once installed reboot into your installed MacOS Installtion install Opencore legacy Patcher, patch the Intel HD 4600 graphics. Reboot again once done and you should now have a functional MacOS installation for your Thinkpad T440, Happy hackintoshing!
+Once installed reboot into your installed MacOS Installtion install Opencore legacy Patcher, patch the Intel HD 4600 graphics. Reboot again once done and you should now have a functional MacOS installation for your Thinkpad T440p, Happy hackintoshing!
